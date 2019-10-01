@@ -1,0 +1,4 @@
+The project runs on django 2.2 and python3.6
+Download the folder and navigate to web_api_assign/web_app_assign,
+type python manage.py runserver on the termina and access resuts on the browser
+by typing 127.0.0.1/8000/post.
